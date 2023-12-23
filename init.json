@@ -1,0 +1,78 @@
+{
+	"v_clues": [
+		{
+			"clues": [
+				{
+					"clue" : 1
+				},
+				{
+					"clue" : 2
+				}
+			]	
+		},
+		{
+			"clues": [
+				{
+					"clue" : 3
+				},
+				{
+					"clue" : 4
+				}
+			]
+		}
+	],
+	"h_clues": [
+		{
+			"clues": [
+				{
+					"clue" : 1
+				},
+				{
+					"clue" : 2
+				}
+			]	
+		},
+		{
+			"clues": [
+				{
+					"clue" : 3
+				},
+				{
+					"clue" : 4
+				}
+			]
+		}
+	],
+	"grid": [
+		{
+			"columns": [
+				{
+					"column" : [
+						{
+							"entry": 0
+						},
+						{
+							"entry": 0
+						},
+						{
+							"entry": 0
+						}
+					]
+				},
+				{
+					"column" : [
+						{
+							"entry": 0
+						},
+						{
+							"entry": 0
+						},
+						{
+							"entry": 0
+						}
+					]
+				}
+			]
+		}
+	]
+}
